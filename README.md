@@ -1,5 +1,10 @@
 # flappybird2
 
+Flappy Bird Game Version 2 Demo.
+
+![flappybird2](https://user-images.githubusercontent.com/42440349/146245165-8cc0acc6-8c7a-40e0-8d5a-9cbf7fef11b7.gif)
+
+
 A new Flutter project.
 
 ## Getting Started
